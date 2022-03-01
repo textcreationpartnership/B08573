@@ -1,0 +1,859 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brotherly meeting of the masters and workmen-printers: begun the fifth of November, 1621.  And continued by these stewards whose names follow in this catalogue.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08573</idno>
+            <idno type="STC">Wing B4984</idno>
+            <idno type="STC">ESTC R223936</idno>
+            <idno type="EEBO-CITATION">64550995</idno>
+            <idno type="OCLC">ocm 64550995</idno>
+            <idno type="VID">184392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184392)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2862:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brotherly meeting of the masters and workmen-printers: begun the fifth of November, 1621.  And continued by these stewards whose names follow in this catalogue.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing --  Societies, etc --  Registers --  Early works to 1800.</term>
+               <term>Broadsides --  English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184392:1"/>
+            <head>
+               <figure>
+                  <figDesc>guild insignia (?)</figDesc>
+               </figure> 
+               <figure>
+                  <figDesc>guild insignia (?)</figDesc>
+               </figure>
+            </head>
+            <head>A Brotherly Meeting of the Maſters and Workmen-Printers: Begun the Fifth of <hi>November,</hi> 1621. And continued by theſe STEWARDS whoſe Names follow in this Catalogue.</head>
+            <list>
+               <item>
+                  <list>
+                     <item>GIles Simſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Phillips. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Gall. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Francis Berrey. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Pape. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Beadle. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Marmaduke Parſons. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Edwin Buſh. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Woodnot. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Frier. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Smith. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Hudſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Peregrine Ward. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Cotton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Halſted. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Norton. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Harper. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Miller. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Bowles. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>James Turneley. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Francis Hendrie. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Boſtocke. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Hugh Brewer. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Wood. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Rickson. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Bell. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Mills. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Edward Goſſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Rickson <hi>dying before this Feaſt, the other three held it at their charge.</hi>
+                     </item>
+                     <item>John Mills <hi>was choſen be<g ref="char:EOLhyphen"/>ing abſent, and held it.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Orphinſtrange. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Standiſh. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Boulter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Miles Sherburne. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Hanſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Draper. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Brudenell. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Raworth. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>J. Hanſon <hi>and</hi> T. Draper <hi>dying before this Feaſt, M<hi rend="sup">r</hi>
+                        </hi> Finch <hi>and M<hi rend="sup">r</hi>
+                        </hi> Wood, <hi>Joyner and Smith to the Profeſſion, ſupplyed their places.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Hodgkinſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Cuthbert Wright. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Edward Medlicot. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Maſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Bradill. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Humphrey Woodall. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Nathan Perce. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Raven. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Peter Roſewell. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Corneforth. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Bate. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Luke Norton. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Cotes. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Chambers, <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Simmons. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Shakeſpear. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Paris Vandue. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Morgan. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Leybourne. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Thornbury. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item> The firſt <hi>SERMON</hi> was on the Fifth of <hi>Nov.</hi> 1628.</item>
+               <item>
+                  <list>
+                     <item>Randolph Booth. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Leech. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Pape. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Air. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Boulter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Jackson. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Okes. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Tilbery. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Edmund Whiting. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Edward Wilſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Moſes Bell. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Harrington. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Robinſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Stretton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Milles. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Griffin. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Atkinſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Dowſing. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Lambert. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Harwood. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Henry Turner. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Ratcliffe.</item>
+                     <item>Francis Neile. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Smith. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Matthew Rhodes. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Winter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Walter Hammond. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Dever. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Sporiar. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Bower. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Marriat. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Zachary Johnſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Francis Boat. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Joſeph Cook. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Wilſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>James Bennet. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>James Bennet <hi>dying be<g ref="char:EOLhyphen"/>fore this Feaſt, the other three held it at their charge.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Abraham Sweet. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Wright. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Abraham Woodfall. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Matthew Simmons. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>George Biſhop. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Lucas. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Raworth. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Edwards. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Arthur Nichols. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Pain. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Bodington. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Ellis. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Chapman. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Gay. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Edward Anderton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Spencer. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Gurney. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Hutton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Sampſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Biſhop. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Lane. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Broad. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Winter. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Crowch. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Sparkes. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Creake. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Gouldan. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Herne. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Chriſtopher Lathem.</item>
+                     <item>Alexander Fifield. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Banks. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Henry Weſton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Francis Leach. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Mallet. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Ferdinando Penithorn.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Wood. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Dudley.</item>
+                     <item>John Badger. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Abraham Hodſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Wymur. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Milbourn. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Stephen Bulkley.</item>
+                     <item>Thomas Goldingham. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Evan Tyler.</item>
+                     <item>Luke Norton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Hewer. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas <g ref="char:V">Ʋ</g>nderwood. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Auſtin. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Harding. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Maxey. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert Tomſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Macock.</item>
+                     <item>Henry Holden. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Robert White.</item>
+                     <item>Andrew Coe. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Wilſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>W. Strongi'th'arms. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Gregory Dexter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Hewer. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Phillips. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Kerby.</item>
+                     <item>Edward Motterſhed. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Purſlow. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Wood. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Wheatley. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Badger. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Daffie. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>James Young. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>George Hawkins. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Nicholas Nichols.</item>
+                     <item>James Fleſher. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Field. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Norman. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Edward Griffin. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Conſtable. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Daffie. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Dawſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Dawſon <hi>dying before this Feaſt, the other three held it at their charge.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Warren. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Newcombe.</item>
+                     <item>Marmaduke Boat.</item>
+                     <item>James Cotterel.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Roycroft.</item>
+                     <item>Richard Knowls. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Amos Coles. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Andrew Crawley.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Goring. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Berow <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Beard. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Charles Sumptner.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Iſaac Boat.</item>
+                     <item>George Graden. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Francis Grey. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Peter Cole. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Daniel Moggs. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Iſaac Winter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Johnſon. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Roger Norton. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Owſeley. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Milbourn.</item>
+                     <item>James Howſe. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>George Purſlow. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Bernard Grantham. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Chriſtopher Desborow.</item>
+                     <item>William Leach. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Sherrington.</item>
+                     <item>Simon Goſling. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Joy Phillips. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Awder. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Marmaduke Johnſon.</item>
+                     <item>Henry Edwards. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Roſſe. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Ralph Hammond. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Edmond Jones. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Cotes. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Joſeph Pack. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Rudd.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Godbid.</item>
+                     <item>Richard Jones. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Cadwell. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Ralph Holt.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Ralph Wood. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Daullman. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Hayes.</item>
+                     <item>Henry Lloyd.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Richard Levis. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Francis Dyſter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>William Harris. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Cheeſe.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Peter Lillicrap. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Henry Barrow.</item>
+                     <item>Ralph Davenport <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Clark. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Webſter. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Joſeph Bennet.</item>
+                     <item>Anthony Brian. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>John Sowle. <g ref="char:cross">✚</g>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Lucas.</item>
+                     <item>Lenard Hill. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Thomas Child.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Anthony Izard.</item>
+                     <item>Nicholas Bowyer.</item>
+                     <item>George Horne.</item>
+                     <item>Nathanael Thomſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>William Hewes.</item>
+                     <item>James Grover.</item>
+                     <item>John Newbey.</item>
+                     <item>John Sparrce.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Andrew Clarke.</item>
+                     <item>Edward Horton.</item>
+                     <item>Thomas Turner.</item>
+                     <item>Thomas Hodgkin.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Thomas Grover.</item>
+                     <item>John Darby.</item>
+                     <item>John Watſon. <g ref="char:cross">✚</g>
+                     </item>
+                     <item>Richard Argent.</item>
+                     <item>John Watſon <hi>dying before this Feaſt, the other three held it at their charge.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Henry Hills.</item>
+                     <item>Joſeph Leigh.</item>
+                     <item>Richard Butler.</item>
+                     <item>Thomas Warren.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>John Martyn.</item>
+                     <item>Simon Corbet.</item>
+                     <item>Thomas Newcombe, <hi>Jun.</hi>
+                     </item>
+                     <item>William Clerdew.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
